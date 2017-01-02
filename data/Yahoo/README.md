@@ -1,0 +1,1 @@
+# save cvs from yahoo finance in this folder
